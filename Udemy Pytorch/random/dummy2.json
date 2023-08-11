@@ -1,0 +1,5203 @@
+[
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "619e9a5645b800159aba2b39",
+        "id": "1",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.178Z",
+        "lastBlinkIndex": 24532308,
+        "lastSeen": "2023-06-27T09:08:56.111Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": -4644,
+            "y": -48421,
+            "z": 0
+        },
+        "lastPositioned": "2023-06-27T09:01:45.085Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [],
+        "updatedAt": "2022-11-23T17:06:25.331Z",
+        "batteryPercentage": 85,
+        "color": "#2CACBC",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61af608d45b800159a69befa",
+        "id": "10",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.218Z",
+        "lastBlinkIndex": 26332025,
+        "lastSeen": "2023-08-09T04:38:43.391Z",
+        "lastZones": [],
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastCoordinates": {
+            "x": 77161,
+            "y": 20644,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:41.394Z",
+        "labels": [
+            {
+                "text": "32269849",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-08T21:48:04.399Z",
+        "batteryPercentage": 85,
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dd3",
+        "id": "100",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "color": "#FF9738",
+        "firstSeen": "2023-03-18T07:23:12.681Z",
+        "labels": [
+            {
+                "text": "ENGINEERING",
+                "color": "#FF9738"
+            }
+        ],
+        "lastBlinkIndex": 557857,
+        "lastCoordinates": {
+            "x": 41328,
+            "y": -49060,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T02:52:44.830Z",
+        "lastSeen": "2023-08-09T04:37:34.312Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "615b427345b800159ab35d6f",
+        "id": "1000",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-10-04T18:05:39.650Z",
+        "lastBlinkIndex": 6203283,
+        "lastSeen": "2021-12-22T19:32:51.434Z",
+        "lastZones": [],
+        "labels": [
+            {
+                "text": "VISITOR",
+                "color": "#7E00FF"
+            }
+        ],
+        "updatedAt": "2021-12-07T18:22:06.772Z",
+        "batteryPercentage": 100,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastCoordinates": {
+            "x": 9243,
+            "y": -51528,
+            "z": 0
+        },
+        "lastPositioned": "2021-12-22T19:32:32.645Z",
+        "color": "#7E00FF",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "628636e5757a8a38f4ab0a39",
+        "id": "1001",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2022-05-19T12:24:05.525Z",
+        "lastBlinkIndex": 7279682,
+        "lastCoordinates": {
+            "x": 6383,
+            "y": -49517,
+            "z": 0
+        },
+        "lastPositioned": "2022-05-19T15:02:51.473Z",
+        "lastSeen": "2022-05-19T15:10:20.557Z",
+        "lastZones": [],
+        "labels": [
+            {
+                "text": "ESTA Mobile",
+                "color": "#00ECD3"
+            }
+        ],
+        "updatedAt": "2022-05-19T12:25:38.966Z",
+        "batteryPercentage": 90,
+        "fwVersion": "24",
+        "hwVersion": "4",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "62863700757a8a38f4ab254d",
+        "id": "1002",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:44.403Z",
+        "lastBlinkIndex": 21365402,
+        "lastSeen": "2023-03-19T08:00:50.585Z",
+        "lastZones": [
+            {
+                "id": "61b764fcbf8983b322c5f66a"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 51141,
+            "y": -1996,
+            "z": 750
+        },
+        "lastPositioned": "2023-03-19T08:00:50.585Z",
+        "batteryPercentage": 45,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": [
+            {
+                "text": "DROBOT",
+                "color": "#EC008C"
+            }
+        ],
+        "updatedAt": "2023-03-11T20:09:13.670Z",
+        "color": "#EC008C",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bb0445b800159a43e6f0",
+        "id": "10131",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.841Z",
+        "lastBlinkIndex": 91,
+        "lastSeen": "2023-03-19T07:45:59.976Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379d9a",
+        "id": "11",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "color": "#FCFF00",
+        "firstSeen": "2023-03-18T07:20:46.281Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "30922751",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 26022764,
+        "lastCoordinates": {
+            "x": 84149,
+            "y": -33572,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.298Z",
+        "lastSeen": "2023-08-09T04:38:44.298Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "updatedAt": "2023-08-03T18:02:07.750Z",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "632dda4819b507f8aec0357b",
+        "id": "1107",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2022-09-23T16:09:44.742Z",
+        "lastBlinkIndex": 6380726,
+        "lastSeen": "2022-09-23T19:11:48.498Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 3252,
+            "y": -51447,
+            "z": 0
+        },
+        "lastPositioned": "2022-09-23T19:11:37.907Z",
+        "color": "#FF0000",
+        "updatedAt": "2022-09-23T16:34:43.316Z",
+        "labels": [
+            {
+                "text": "Stijn",
+                "color": "#FF0000"
+            }
+        ],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "632ddd6019b507f8aec41fdc",
+        "id": "119889744",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 45,
+        "firstSeen": "2022-09-23T16:22:56.343Z",
+        "fwVersion": "21",
+        "hwVersion": "4",
+        "labels": [
+            {
+                "color": "red",
+                "text": "DJ 10.26.2022 dj parameter"
+            },
+            {
+                "color": "red",
+                "text": "Part 8"
+            },
+            {
+                "color": "red",
+                "text": "Expedite"
+            }
+        ],
+        "lastSeen": "2022-09-23T16:22:56.271Z",
+        "positioningProfileId": null,
+        "lastZones": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379d9b",
+        "id": "12",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "color": "#32B6C4",
+        "firstSeen": "2023-03-18T07:20:46.213Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [],
+        "lastBlinkIndex": 26062435,
+        "lastCoordinates": {
+            "x": 81322,
+            "y": -51085,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:06:02.530Z",
+        "lastSeen": "2023-08-09T04:38:43.430Z",
+        "lastZones": [],
+        "updatedAt": "2023-03-15T16:32:28.337Z",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379d9c",
+        "id": "13",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "color": "#FCFF00",
+        "firstSeen": "2023-03-18T07:20:46.288Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32305383",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 25952621,
+        "lastCoordinates": {
+            "x": 79650,
+            "y": -20363,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.066Z",
+        "lastSeen": "2023-08-09T04:38:44.066Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "updatedAt": "2023-04-25T16:39:15.994Z",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379d9d",
+        "id": "14",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 90,
+        "color": "#32B6C4",
+        "firstSeen": "2023-03-18T07:20:45.849Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [],
+        "lastBlinkIndex": 200497753,
+        "lastCoordinates": {
+            "x": 80836,
+            "y": -52289,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.680Z",
+        "lastSeen": "2023-08-09T04:38:44.680Z",
+        "lastZones": [
+            {
+                "id": "639e70aac5e1667f7acfba9e"
+            }
+        ],
+        "updatedAt": "2023-07-18T21:49:42.161Z",
+        "positioningProfileId": "default",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9bd",
+        "id": "14062",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.404Z",
+        "lastBlinkIndex": 140,
+        "lastSeen": "2023-03-19T07:45:59.928Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379d9e",
+        "id": "15",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "color": "#2CACBC",
+        "firstSeen": "2023-03-18T07:20:46.276Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "31520236",
+                "color": "#7E00FF"
+            }
+        ],
+        "lastBlinkIndex": 25928929,
+        "lastCoordinates": {
+            "x": 98581,
+            "y": 16761,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.400Z",
+        "lastSeen": "2023-08-09T04:38:44.400Z",
+        "lastZones": [
+            {
+                "id": "61afade240fb12a7b3618c59"
+            }
+        ],
+        "updatedAt": "2022-11-23T16:58:11.950Z",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9be",
+        "id": "15375",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.856Z",
+        "lastBlinkIndex": 73,
+        "lastSeen": "2023-03-19T07:45:59.960Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379d9f",
+        "id": "16",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "color": "#FCFF00",
+        "firstSeen": "2023-03-18T07:20:46.250Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32332642",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 26098334,
+        "lastCoordinates": {
+            "x": 80891,
+            "y": -22245,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.177Z",
+        "lastSeen": "2023-08-09T04:38:44.177Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:19:53.353Z",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9c0",
+        "id": "16313",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.365Z",
+        "lastBlinkIndex": 95,
+        "lastSeen": "2023-03-19T07:45:59.975Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da0",
+        "id": "17",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.868Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26039243,
+        "lastCoordinates": {
+            "x": 43671,
+            "y": 15667,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.680Z",
+        "lastSeen": "2023-08-09T04:38:44.680Z",
+        "lastZones": [
+            {
+                "id": "61b7604cc0aaf70d6f0ff54c"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32028108",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:19:15.076Z",
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9c1",
+        "id": "17901",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.509Z",
+        "lastBlinkIndex": 24,
+        "lastSeen": "2023-03-19T07:45:59.955Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da1",
+        "id": "18",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.253Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26004068,
+        "lastCoordinates": {
+            "x": 85508,
+            "y": 18967,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.431Z",
+        "lastSeen": "2023-08-09T04:38:43.431Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32110734",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-08T21:48:57.742Z",
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9c2",
+        "id": "18184",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.414Z",
+        "lastBlinkIndex": 63,
+        "lastSeen": "2023-03-19T07:45:59.898Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da2",
+        "id": "19",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.295Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25948748,
+        "lastCoordinates": {
+            "x": 8277,
+            "y": 8337,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.058Z",
+        "lastSeen": "2023-08-09T04:38:43.058Z",
+        "lastZones": [
+            {
+                "id": "61af72fc979491217cb222c9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "35741631",
+                "color": "#2FD64C"
+            }
+        ],
+        "updatedAt": "2023-05-19T14:04:37.485Z",
+        "color": "#00ECD3",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9c3",
+        "id": "19754",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.619Z",
+        "lastBlinkIndex": 12,
+        "lastSeen": "2023-03-19T07:45:59.952Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "619e9ace45b800159aba522a",
+        "id": "2",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.861Z",
+        "lastBlinkIndex": 296118478,
+        "lastSeen": "2023-08-09T04:38:44.692Z",
+        "lastZones": [
+            {
+                "id": "61af72fc979491217cb222c9"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 8390,
+            "y": 11600,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.692Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "updatedAt": "2023-04-27T19:59:28.112Z",
+        "labels": [
+            {
+                "text": "31969566",
+                "color": "#2FD64C"
+            }
+        ],
+        "batteryPercentage": 20,
+        "positioningProfileId": null,
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da3",
+        "id": "20",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:21:03.223Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26037848,
+        "lastCoordinates": {
+            "x": 80611,
+            "y": -33860,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.955Z",
+        "lastSeen": "2023-08-09T04:38:43.955Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32359283",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-03T18:02:27.737Z",
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d17e",
+        "id": "200001222",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 100,
+        "firstSeen": "2022-02-28T14:30:16.592Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 69698,
+        "lastCoordinates": {
+            "x": 45529,
+            "y": -2797,
+            "z": 0
+        },
+        "lastPositioned": "2021-12-29T00:12:45.172Z",
+        "lastSeen": "2021-12-29T00:23:28.777Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da4",
+        "id": "21",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.205Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26000838,
+        "lastCoordinates": {
+            "x": 86322,
+            "y": -33995,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.679Z",
+        "lastSeen": "2023-08-09T04:38:44.679Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32404589",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2022-11-23T17:07:17.180Z",
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da5",
+        "id": "22",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.243Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26104467,
+        "lastCoordinates": {
+            "x": 84574,
+            "y": 18568,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.037Z",
+        "lastSeen": "2023-08-09T04:38:43.037Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32326420",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:18:06.931Z",
+        "color": "#FCFF00",
+        "positioningProfileId": "default",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da6",
+        "id": "23",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.874Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26130563,
+        "lastCoordinates": {
+            "x": 81862,
+            "y": -34360,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.569Z",
+        "lastSeen": "2023-08-09T04:38:43.569Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32305388",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-01T17:13:23.346Z",
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9c6",
+        "id": "23161",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.827Z",
+        "lastBlinkIndex": 19,
+        "lastSeen": "2023-03-19T07:45:59.946Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da7",
+        "id": "24",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.869Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26002671,
+        "lastCoordinates": {
+            "x": 80371,
+            "y": -29738,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.334Z",
+        "lastSeen": "2023-08-09T04:38:44.334Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32359151",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-05-17T16:18:01.665Z",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da8",
+        "id": "25",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.212Z",
+        "lastBlinkIndex": 26098541,
+        "lastCoordinates": {
+            "x": 82296,
+            "y": -34981,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.368Z",
+        "lastSeen": "2023-08-09T04:38:44.368Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32429398",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-03T18:01:43.221Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379da9",
+        "id": "26",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.885Z",
+        "lastBlinkIndex": 25922593,
+        "lastCoordinates": {
+            "x": 86128,
+            "y": 18311,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.020Z",
+        "lastSeen": "2023-08-09T04:38:44.020Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "33815265",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-12T18:52:52.173Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "637124467975a742e4f63663",
+        "id": "26677",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T03:02:28.176Z",
+        "lastBlinkIndex": 104835,
+        "lastCoordinates": {
+            "x": 67151,
+            "y": -10941,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:05:09.384Z",
+        "lastSeen": "2023-06-14T02:05:09.384Z",
+        "lastZones": [],
+        "positioningProfileId": "794",
+        "updatedAt": "2023-04-02T22:32:51.112Z",
+        "moving": true,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379daa",
+        "id": "27",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.880Z",
+        "lastBlinkIndex": 25947354,
+        "lastCoordinates": {
+            "x": 80835,
+            "y": -20959,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.230Z",
+        "lastSeen": "2023-08-09T04:38:43.230Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32402923",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-13T20:41:36.852Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9c7",
+        "id": "27055",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.679Z",
+        "lastBlinkIndex": 39,
+        "lastSeen": "2023-03-19T07:45:59.956Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6238e74245b800159a2e9d74",
+        "id": "27246",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T03:01:44.039Z",
+        "lastBlinkIndex": 257976,
+        "lastCoordinates": {
+            "x": 67004,
+            "y": -10077,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:12:59.519Z",
+        "lastSeen": "2023-06-14T02:12:59.519Z",
+        "lastZones": [],
+        "positioningProfileId": "794",
+        "updatedAt": "2023-04-02T22:32:37.401Z",
+        "moving": true,
+        "labels": [
+            {
+                "text": "bot",
+                "color": "#FF0000"
+            }
+        ]
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dab",
+        "id": "28",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.326Z",
+        "lastBlinkIndex": 26119975,
+        "lastCoordinates": {
+            "x": 80167,
+            "y": -22971,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.170Z",
+        "lastSeen": "2023-08-09T04:38:44.170Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32402557",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2022-09-28T16:49:04.979Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d982",
+        "id": "2848",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.379Z",
+        "lastBlinkIndex": 98,
+        "lastSeen": "2023-03-19T07:45:59.969Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dac",
+        "id": "29",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.258Z",
+        "lastBlinkIndex": 25997216,
+        "lastCoordinates": {
+            "x": 3416,
+            "y": 2032,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.680Z",
+        "lastSeen": "2023-08-09T04:38:44.680Z",
+        "lastZones": [
+            {
+                "id": "61af72fc979491217cb222c9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32479333",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-08-08T14:56:32.367Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#2FD64C",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "619e9aec45b800159aba5cb4",
+        "id": "3",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.199Z",
+        "lastBlinkIndex": 26383384,
+        "lastSeen": "2023-08-09T04:38:43.368Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 77041,
+            "y": 20953,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.368Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "batteryPercentage": 85,
+        "labels": [
+            {
+                "text": "32293586",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-19T20:39:41.787Z",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dad",
+        "id": "30",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.416Z",
+        "lastBlinkIndex": 26068688,
+        "lastCoordinates": {
+            "x": 11868,
+            "y": 32975,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.387Z",
+        "lastSeen": "2023-08-09T04:38:44.387Z",
+        "lastZones": [
+            {
+                "id": "61af96d2a6b19116f287753a"
+            }
+        ],
+        "labels": [
+            {
+                "text": "31667020",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-08T21:49:50.294Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fbd9237975a742e4e1d9a0",
+        "id": "30209",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-26T22:11:21.535Z",
+        "lastBlinkIndex": 1353,
+        "lastSeen": "2023-02-26T22:12:06.085Z",
+        "lastZones": [],
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bd1145b800159a449433",
+        "id": "30400",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.466Z",
+        "lastBlinkIndex": 52,
+        "lastCoordinates": {
+            "x": 86644,
+            "y": 76837,
+            "z": 0
+        },
+        "lastPositioned": "2021-11-16T15:49:50.476Z",
+        "lastSeen": "2023-03-19T07:45:59.942Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c3567845b800159a040e7f",
+        "id": "307",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-12-22T16:46:48.894Z",
+        "lastBlinkIndex": 22739624,
+        "lastSeen": "2022-03-21T19:57:16.664Z",
+        "lastZones": [],
+        "batteryPercentage": 100,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastCoordinates": {
+            "x": 6387,
+            "y": -50767,
+            "z": 0
+        },
+        "lastPositioned": "2022-03-21T19:57:16.664Z",
+        "color": "#7E00FF",
+        "labels": [
+            {
+                "text": "VISITOR",
+                "color": "#7E00FF"
+            }
+        ],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dae",
+        "id": "31",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.872Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25983903,
+        "lastCoordinates": {
+            "x": 82802,
+            "y": -20084,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.276Z",
+        "lastSeen": "2023-08-09T04:38:44.276Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "32293997",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:18:49.408Z",
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bd1145b800159a449434",
+        "id": "31388",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.727Z",
+        "lastBlinkIndex": 115,
+        "lastSeen": "2023-03-19T07:45:59.923Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379daf",
+        "id": "32",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.242Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25917186,
+        "lastCoordinates": {
+            "x": -1337,
+            "y": -7737,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-08T18:42:04.911Z",
+        "lastSeen": "2023-08-09T04:38:44.724Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": [],
+        "updatedAt": "2023-07-27T18:17:26.593Z",
+        "moving": true,
+        "color": "#32B6C4"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9c9",
+        "id": "32663",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.586Z",
+        "lastBlinkIndex": 68,
+        "lastSeen": "2023-03-19T07:45:59.977Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db0",
+        "id": "33",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.321Z",
+        "lastBlinkIndex": 25977761,
+        "lastCoordinates": {
+            "x": 72153,
+            "y": 31773,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.974Z",
+        "lastSeen": "2023-08-09T04:38:42.974Z",
+        "lastZones": [
+            {
+                "id": "61b761353084596d18dfd03b"
+            }
+        ],
+        "labels": [
+            {
+                "text": "33107186",
+                "color": "#FF0000"
+            },
+            {
+                "text": "Part 2",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-08-08T22:15:19.202Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "color": "#32B6C4",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db1",
+        "id": "34",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.346Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26071665,
+        "lastCoordinates": {
+            "x": 42081,
+            "y": 17173,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.830Z",
+        "lastSeen": "2023-08-09T04:38:43.830Z",
+        "lastZones": [
+            {
+                "id": "61b7604cc0aaf70d6f0ff54c"
+            }
+        ],
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "36363732",
+                "color": "#2FD64C"
+            }
+        ],
+        "updatedAt": "2023-05-18T12:43:18.089Z",
+        "color": "#7E00FF",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db2",
+        "id": "35",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.379Z",
+        "lastBlinkIndex": 26031827,
+        "lastCoordinates": {
+            "x": 77631,
+            "y": 20878,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.779Z",
+        "lastSeen": "2023-08-09T04:38:43.779Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "positioningProfileId": null,
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32302266",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-12T18:51:48.868Z",
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db3",
+        "id": "36",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:21:03.286Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25934474,
+        "lastCoordinates": {
+            "x": 81033,
+            "y": -20953,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.021Z",
+        "lastSeen": "2023-08-09T04:38:44.021Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "33815126",
+                "color": "#2CACBC"
+            }
+        ],
+        "color": "#FCFF00",
+        "updatedAt": "2023-04-25T16:40:53.387Z",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "615dfea245b800159a9598bb",
+        "id": "36431",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.400Z",
+        "lastBlinkIndex": 92,
+        "lastSeen": "2023-03-19T07:45:59.942Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db4",
+        "id": "37",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.885Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26056889,
+        "lastCoordinates": {
+            "x": 77633,
+            "y": 20663,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.290Z",
+        "lastSeen": "2023-08-09T04:38:43.290Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32334026",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-12T18:53:18.304Z",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9cb",
+        "id": "37370",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.870Z",
+        "lastBlinkIndex": 41,
+        "lastSeen": "2023-03-19T07:45:59.980Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db5",
+        "id": "38",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.211Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25823730,
+        "lastCoordinates": {
+            "x": 1717,
+            "y": 3577,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-08T19:02:00.945Z",
+        "lastSeen": "2023-08-08T19:02:07.162Z",
+        "lastZones": [],
+        "labels": [],
+        "updatedAt": "2023-07-27T18:17:39.781Z",
+        "positioningProfileId": null,
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "615783a145b800159a7638e1",
+        "id": "3851",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.704Z",
+        "lastBlinkIndex": 127,
+        "lastSeen": "2023-03-19T07:45:59.989Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db6",
+        "id": "39",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.212Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25872387,
+        "lastCoordinates": {
+            "x": 80242,
+            "y": 29789,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.114Z",
+        "lastSeen": "2023-08-09T04:38:44.114Z",
+        "lastZones": [
+            {
+                "id": "61b761353084596d18dfd03b"
+            }
+        ],
+        "labels": [
+            {
+                "text": "33107186",
+                "color": "#FF0000"
+            },
+            {
+                "text": "part 1",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-08-07T15:21:57.722Z",
+        "positioningProfileId": null,
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61a7c8ae45b800159ab90aaf",
+        "id": "4",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.241Z",
+        "lastBlinkIndex": 26333029,
+        "lastSeen": "2023-08-09T04:38:43.532Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 79588,
+            "y": -34788,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.532Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32402875",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-12T18:53:35.064Z",
+        "color": "#FCFF00",
+        "batteryPercentage": 85,
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db7",
+        "id": "40",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.878Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25996251,
+        "lastCoordinates": {
+            "x": 81517,
+            "y": -20835,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.387Z",
+        "lastSeen": "2023-08-09T04:38:44.387Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32510785",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:19:38.036Z",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379db9",
+        "id": "41",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.316Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25948108,
+        "lastCoordinates": {
+            "x": 80596,
+            "y": -20470,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.016Z",
+        "lastSeen": "2023-08-09T04:38:44.016Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32359727",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-04-25T16:41:02.430Z",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6157803b45b800159a7515c6",
+        "id": "4160",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.693Z",
+        "lastBlinkIndex": 141,
+        "lastSeen": "2023-03-19T07:45:59.862Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dba",
+        "id": "42",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.229Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25932550,
+        "lastCoordinates": {
+            "x": 13465,
+            "y": 27968,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.990Z",
+        "lastSeen": "2023-08-09T04:38:43.990Z",
+        "lastZones": [
+            {
+                "id": "61af96d2a6b19116f287753a"
+            }
+        ],
+        "labels": [
+            {
+                "text": "36615849",
+                "color": "#FF0000"
+            },
+            {
+                "text": "Storm ",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-08-01T17:14:15.732Z",
+        "positioningProfileId": null,
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bb0445b800159a43e6f1",
+        "id": "42009",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.373Z",
+        "lastBlinkIndex": 140,
+        "lastSeen": "2023-03-19T07:45:59.896Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63f270fb7975a742e4fa9c32",
+        "id": "42359",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.568Z",
+        "lastBlinkIndex": 31,
+        "lastSeen": "2023-03-19T07:45:59.968Z",
+        "lastZones": [],
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dbc",
+        "id": "43",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.868Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26159516,
+        "lastCoordinates": {
+            "x": 43861,
+            "y": 32254,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.285Z",
+        "lastSeen": "2023-08-09T04:38:43.285Z",
+        "lastZones": [
+            {
+                "id": "61b75db59eb72fc1f5d330f4"
+            }
+        ],
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "32212649",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:19:25.768Z",
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fb9fd47975a742e4abf95b",
+        "id": "4395",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-26T18:07:11.990Z",
+        "lastBlinkIndex": 170876,
+        "lastSeen": "2023-02-27T00:04:28.658Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 49796,
+            "y": -2774,
+            "z": 0
+        },
+        "lastPositioned": "2023-02-27T00:04:28.626Z",
+        "moving": true,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dbe",
+        "id": "44",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.165Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25885914,
+        "lastCoordinates": {
+            "x": 16977,
+            "y": 23508,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.926Z",
+        "lastSeen": "2023-08-09T04:38:42.926Z",
+        "lastZones": [
+            {
+                "id": "61b75ed179589a40e228cde9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "33107186",
+                "color": "#FF0000"
+            },
+            {
+                "text": "Bench Pick",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-08-07T15:23:49.504Z",
+        "positioningProfileId": null,
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fb9fb67975a742e4abd8b7",
+        "id": "4414",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-26T18:06:31.708Z",
+        "lastBlinkIndex": 1861,
+        "lastSeen": "2023-02-26T22:55:19.586Z",
+        "lastZones": [
+            {
+                "id": "61b764fcbf8983b322c5f66a"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 49177,
+            "y": -1242,
+            "z": 0
+        },
+        "lastPositioned": "2023-02-26T22:55:19.586Z",
+        "moving": true,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fb9ff27975a742e4ac1717",
+        "id": "4427",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-26T18:07:45.751Z",
+        "lastBlinkIndex": 171492,
+        "lastSeen": "2023-02-27T00:04:28.635Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 51092,
+            "y": -1115,
+            "z": 0
+        },
+        "lastPositioned": "2023-02-27T00:04:28.635Z",
+        "moving": true,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fba22c7975a742e4ae414c",
+        "id": "4428",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-26T18:17:02.758Z",
+        "lastBlinkIndex": 171537,
+        "lastSeen": "2023-02-27T00:04:28.622Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 49710,
+            "y": -3096,
+            "z": 0
+        },
+        "lastPositioned": "2023-02-27T00:04:28.622Z",
+        "moving": true,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fb9f997975a742e4abb9dd",
+        "id": "4429",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-26T18:06:13.355Z",
+        "lastBlinkIndex": 171870,
+        "lastSeen": "2023-02-27T00:04:28.645Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 48034,
+            "y": 694,
+            "z": 0
+        },
+        "lastPositioned": "2023-02-27T00:04:28.599Z",
+        "moving": true,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9cf",
+        "id": "44695",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.387Z",
+        "lastBlinkIndex": 149,
+        "lastSeen": "2023-03-19T07:45:59.925Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dbf",
+        "id": "45",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.374Z",
+        "lastBlinkIndex": 25937419,
+        "lastCoordinates": {
+            "x": 79532,
+            "y": -29034,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.825Z",
+        "lastSeen": "2023-08-09T04:38:42.825Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32397988",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-05-19T14:04:23.705Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bb0445b800159a43e6f2",
+        "id": "45627",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.564Z",
+        "lastBlinkIndex": 202,
+        "lastSeen": "2023-03-19T07:45:59.956Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d983",
+        "id": "4598",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.997Z",
+        "lastBlinkIndex": 228,
+        "lastSeen": "2023-03-19T07:45:59.963Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc0",
+        "id": "46",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.139Z",
+        "lastBlinkIndex": 25856592,
+        "lastCoordinates": {
+            "x": 82353,
+            "y": -52056,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.680Z",
+        "lastSeen": "2023-08-09T04:38:44.680Z",
+        "lastZones": [
+            {
+                "id": "639e70aac5e1667f7acfba9e"
+            }
+        ],
+        "labels": [],
+        "updatedAt": "2023-07-13T20:42:10.654Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc1",
+        "id": "47",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.227Z",
+        "lastBlinkIndex": 25957202,
+        "lastCoordinates": {
+            "x": 80786,
+            "y": 14996,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.246Z",
+        "lastSeen": "2023-08-09T04:38:44.246Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32335852",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:19:09.018Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "637114ed7975a742e4f16a99",
+        "id": "4735",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:44.236Z",
+        "lastBlinkIndex": 253573796,
+        "lastSeen": "2023-06-13T02:51:05.588Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 60659,
+            "y": -6261,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-13T02:51:05.588Z",
+        "positioningProfileId": "794",
+        "updatedAt": "2023-03-25T17:30:39.887Z",
+        "batteryPercentage": 25,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "moving": true,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc2",
+        "id": "48",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.339Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 26078780,
+        "lastCoordinates": {
+            "x": 9264,
+            "y": 3764,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.126Z",
+        "lastSeen": "2023-08-09T04:38:43.126Z",
+        "lastZones": [
+            {
+                "id": "61af72fc979491217cb222c9"
+            }
+        ],
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "31813639",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2022-11-23T17:10:52.814Z",
+        "color": "#7E00FF",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc3",
+        "id": "49",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.176Z",
+        "lastBlinkIndex": 25952944,
+        "lastCoordinates": {
+            "x": 1499,
+            "y": 2985,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-08T19:02:00.755Z",
+        "lastSeen": "2023-08-08T19:04:58.238Z",
+        "lastZones": [],
+        "labels": [],
+        "updatedAt": "2023-07-13T20:41:43.266Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "color": "#32B6C4",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d987",
+        "id": "4950",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.556Z",
+        "lastBlinkIndex": 110,
+        "lastSeen": "2023-03-19T04:46:33.682Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61a7c8ae45b800159ab90ab0",
+        "id": "5",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.243Z",
+        "lastBlinkIndex": 26442525,
+        "lastSeen": "2023-08-09T04:38:42.852Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 85846,
+            "y": 18039,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.852Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32402880",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-13T18:03:05.916Z",
+        "batteryPercentage": 85,
+        "positioningProfileId": null,
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc4",
+        "id": "50",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.265Z",
+        "lastBlinkIndex": 25865983,
+        "lastCoordinates": {
+            "x": 81623,
+            "y": -20613,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.831Z",
+        "lastSeen": "2023-08-09T04:38:43.831Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32404590",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:17:45.548Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9d0",
+        "id": "50568",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.317Z",
+        "lastBlinkIndex": 245,
+        "lastSeen": "2023-03-19T07:45:59.939Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc5",
+        "id": "51",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.394Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25880461,
+        "lastCoordinates": {
+            "x": 9550,
+            "y": 2505,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.978Z",
+        "lastSeen": "2023-08-09T04:38:42.978Z",
+        "lastZones": [
+            {
+                "id": "61af72fc979491217cb222c9"
+            }
+        ],
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "34428175",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-05-15T13:35:31.454Z",
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fceb557975a742e4eaf032",
+        "id": "5132",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-27T17:41:14.706Z",
+        "lastBlinkIndex": 10,
+        "lastSeen": "2023-02-27T17:41:15.121Z",
+        "lastZones": [],
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d989",
+        "id": "5184",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.611Z",
+        "lastBlinkIndex": 15,
+        "lastSeen": "2023-03-19T07:45:59.905Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc6",
+        "id": "52",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.856Z",
+        "lastBlinkIndex": 25973282,
+        "lastCoordinates": {
+            "x": 85812,
+            "y": -34673,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.037Z",
+        "lastSeen": "2023-08-09T04:38:43.037Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "32403005",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-03T18:02:35.508Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bb0445b800159a43e6ec",
+        "id": "5295",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.788Z",
+        "lastBlinkIndex": 105,
+        "lastSeen": "2023-03-19T07:45:59.631Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc8",
+        "id": "53",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.221Z",
+        "lastBlinkIndex": 25975554,
+        "lastCoordinates": {
+            "x": 86218,
+            "y": -34521,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.245Z",
+        "lastSeen": "2023-08-09T04:38:44.245Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "33320551",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-05-05T14:28:39.257Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "moving": true,
+        "color": "#FCFF00"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bb0445b800159a43e6f3",
+        "id": "53235",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.419Z",
+        "lastBlinkIndex": 144,
+        "lastSeen": "2023-03-19T07:45:59.928Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d98a",
+        "id": "5347",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.491Z",
+        "lastBlinkIndex": 14,
+        "lastSeen": "2023-03-19T07:45:59.953Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dc9",
+        "id": "54",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.174Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 25835696,
+        "lastCoordinates": {
+            "x": 43507,
+            "y": 15722,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.602Z",
+        "lastSeen": "2023-08-09T04:38:43.602Z",
+        "lastZones": [
+            {
+                "id": "61b7604cc0aaf70d6f0ff54c"
+            }
+        ],
+        "positioningProfileId": null,
+        "moving": true,
+        "labels": [
+            {
+                "text": "32028108",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-03-15T16:30:14.550Z",
+        "color": "#FCFF00"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6222683845b800159a6105c2",
+        "id": "5406",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2022-03-04T19:27:52.535Z",
+        "lastBlinkIndex": 29632175,
+        "lastSeen": "2022-04-06T19:16:36.718Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 81395,
+            "y": -1302,
+            "z": 0
+        },
+        "lastPositioned": "2022-04-06T19:16:36.718Z",
+        "batteryPercentage": 45,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": [],
+        "updatedAt": "2022-03-04T20:11:04.535Z",
+        "color": "#2CACBC",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9d2",
+        "id": "54168",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.766Z",
+        "lastBlinkIndex": 77,
+        "lastSeen": "2023-03-19T07:45:59.979Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6157803b45b800159a7515c7",
+        "id": "5476",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.653Z",
+        "lastBlinkIndex": 50,
+        "lastSeen": "2023-03-19T07:45:59.929Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e62345b800159a3ebb67",
+        "id": "55",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.253Z",
+        "lastBlinkIndex": 25830451,
+        "lastSeen": "2023-08-09T04:38:43.132Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "lastCoordinates": {
+            "x": 86992,
+            "y": -34126,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.132Z",
+        "labels": [
+            {
+                "text": "32303282",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-08-03T18:01:59.148Z",
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9d3",
+        "id": "55930",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.637Z",
+        "lastBlinkIndex": 45,
+        "lastSeen": "2023-03-19T07:45:59.953Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e67d45b800159a3eece3",
+        "id": "56",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.334Z",
+        "lastBlinkIndex": 25633948,
+        "lastSeen": "2023-08-09T04:38:43.288Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 77414,
+            "y": 20559,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.288Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "32269847",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2022-06-30T21:47:18.208Z",
+        "moving": true,
+        "color": "#FCFF00"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e6b945b800159a3f0e43",
+        "id": "57",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.134Z",
+        "lastBlinkIndex": 25682632,
+        "lastSeen": "2023-08-09T04:38:43.253Z",
+        "lastZones": [
+            {
+                "id": "61af99711c075b8a3f595227"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 71967,
+            "y": 40830,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.253Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "labels": [
+            {
+                "text": "32735136",
+                "color": "#FF9738"
+            }
+        ],
+        "updatedAt": "2022-08-30T16:53:16.319Z",
+        "color": "#00ECD3",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "640e15277975a742e48c0d46",
+        "id": "5752",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.279Z",
+        "lastBlinkIndex": 523094,
+        "lastSeen": "2023-03-18T18:44:26.833Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 43685,
+            "y": -12056,
+            "z": 0
+        },
+        "lastPositioned": "2023-03-18T18:43:58.910Z",
+        "moving": true,
+        "batteryPercentage": 100,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d98b",
+        "id": "5789",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.733Z",
+        "lastBlinkIndex": 125,
+        "lastSeen": "2023-03-19T04:46:34.019Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e67d45b800159a3eece4",
+        "id": "58",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-12-21T14:36:45.672Z",
+        "lastBlinkIndex": 4504396,
+        "lastSeen": "2022-04-05T13:18:25.571Z",
+        "lastZones": [],
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "lastCoordinates": {
+            "x": -1940,
+            "y": 45316,
+            "z": 0
+        },
+        "lastPositioned": "2022-04-01T15:56:17.339Z",
+        "labels": [
+            {
+                "text": "25648562",
+                "color": "#32B6C4"
+            }
+        ],
+        "updatedAt": "2023-04-25T16:40:02.913Z",
+        "color": "#2CACBC"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d98e",
+        "id": "5818",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.781Z",
+        "lastBlinkIndex": 131,
+        "lastSeen": "2023-03-19T04:46:34.048Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d993",
+        "id": "5825",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.361Z",
+        "lastBlinkIndex": 132,
+        "lastSeen": "2023-03-19T04:46:32.614Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d994",
+        "id": "5828",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.338Z",
+        "lastBlinkIndex": 145,
+        "lastSeen": "2023-03-19T04:46:32.615Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bd1145b800159a449435",
+        "id": "58336",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.419Z",
+        "lastBlinkIndex": 63,
+        "lastCoordinates": {
+            "x": 71111,
+            "y": 76583,
+            "z": 0
+        },
+        "lastPositioned": "2021-11-16T15:49:50.483Z",
+        "lastSeen": "2023-03-19T07:45:59.970Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d995",
+        "id": "5843",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.921Z",
+        "lastBlinkIndex": 114,
+        "lastSeen": "2023-03-19T04:46:34.053Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d99a",
+        "id": "5859",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.332Z",
+        "lastBlinkIndex": 132,
+        "lastSeen": "2023-03-19T04:46:32.614Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63f271af7975a742e4fb4e44",
+        "id": "5888",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.547Z",
+        "lastBlinkIndex": 105,
+        "lastSeen": "2023-03-19T04:46:32.611Z",
+        "lastZones": [],
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9a2",
+        "id": "5890",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.666Z",
+        "lastBlinkIndex": 132,
+        "lastSeen": "2023-03-19T04:46:33.666Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9a7",
+        "id": "5897",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:34.007Z",
+        "lastBlinkIndex": 106,
+        "lastSeen": "2023-03-19T04:46:34.052Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e69b45b800159a3efd36",
+        "id": "59",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.391Z",
+        "lastBlinkIndex": 25719095,
+        "lastSeen": "2023-08-09T04:38:43.306Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "lastCoordinates": {
+            "x": 62996,
+            "y": 14716,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.306Z",
+        "labels": [
+            {
+                "text": "32269847",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-07-13T18:04:29.243Z",
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9a8",
+        "id": "5902",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:34.034Z",
+        "lastBlinkIndex": 135,
+        "lastSeen": "2023-03-19T04:46:34.057Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9af",
+        "id": "5911",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.456Z",
+        "lastBlinkIndex": 111,
+        "lastSeen": "2023-03-19T04:46:32.616Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d17d",
+        "id": "5946",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 100,
+        "firstSeen": "2022-02-28T14:30:16.592Z",
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastBlinkIndex": 12419985,
+        "lastCoordinates": {
+            "x": -6700,
+            "y": -50733,
+            "z": 0
+        },
+        "lastPositioned": "2022-01-18T21:39:38.826Z",
+        "lastSeen": "2022-01-18T21:39:40.651Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "636ede037975a742e44349df",
+        "id": "59479",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.613Z",
+        "lastBlinkIndex": 34,
+        "lastSeen": "2023-03-19T07:45:59.878Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61af5dda45b800159a68c0b0",
+        "id": "6",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.316Z",
+        "lastBlinkIndex": 26341733,
+        "lastSeen": "2023-08-09T04:38:42.877Z",
+        "lastZones": [
+            {
+                "id": "639e70aac5e1667f7acfba9e"
+            }
+        ],
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastCoordinates": {
+            "x": 82078,
+            "y": -51444,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.877Z",
+        "labels": [],
+        "updatedAt": "2023-07-27T18:17:08.292Z",
+        "batteryPercentage": 85,
+        "positioningProfileId": null,
+        "color": "#32B6C4",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e6d745b800159a3f1dc6",
+        "id": "60",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.230Z",
+        "lastBlinkIndex": 25593083,
+        "lastSeen": "2023-08-09T04:38:43.989Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastCoordinates": {
+            "x": 77035,
+            "y": 20579,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.989Z",
+        "color": "#FCFF00",
+        "labels": [
+            {
+                "text": "32360526",
+                "color": "#2CACBC"
+            }
+        ],
+        "positioningProfileId": null,
+        "updatedAt": "2023-07-27T18:17:55.968Z",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61577cc445b800159a73f06c",
+        "id": "6024",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-10-01T21:25:24.621Z",
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastBlinkIndex": 2075394,
+        "lastSeen": "2022-03-22T22:42:46.672Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": -5704,
+            "y": -51286,
+            "z": 0
+        },
+        "lastPositioned": "2022-03-22T22:41:05.062Z",
+        "batteryPercentage": 100,
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63f270fb7975a742e4fa9c36",
+        "id": "60594",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.959Z",
+        "lastBlinkIndex": 22,
+        "lastSeen": "2023-03-19T07:45:59.943Z",
+        "lastZones": [],
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e73145b800159a3f4d61",
+        "id": "61",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.196Z",
+        "lastBlinkIndex": 25754337,
+        "lastSeen": "2023-08-09T04:38:41.464Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 81738,
+            "y": -19798,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:41.464Z",
+        "positioningProfileId": null,
+        "updatedAt": "2023-04-25T16:40:47.675Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32397986",
+                "color": "#2CACBC"
+            }
+        ],
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e73145b800159a3f4d63",
+        "id": "62",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.180Z",
+        "lastBlinkIndex": 25646796,
+        "lastSeen": "2023-08-09T04:38:44.213Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 85040,
+            "y": 18016,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.213Z",
+        "positioningProfileId": null,
+        "updatedAt": "2023-07-27T18:18:25.097Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32305403",
+                "color": "#2CACBC"
+            }
+        ],
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "636ede037975a742e44349e0",
+        "id": "62856",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:32.526Z",
+        "lastBlinkIndex": 35,
+        "lastCoordinates": {
+            "x": 96825,
+            "y": 38152,
+            "z": 0
+        },
+        "lastPositioned": "2022-11-11T23:42:42.392Z",
+        "lastSeen": "2023-03-19T07:45:59.950Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e6d745b800159a3f1dc7",
+        "id": "63",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-12-21T14:38:15.656Z",
+        "lastBlinkIndex": 13914429,
+        "lastSeen": "2022-11-08T20:09:08.093Z",
+        "lastZones": [
+            {
+                "id": "61afba75920aad88259e1e4d"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 29795,
+            "y": 40976,
+            "z": 0
+        },
+        "lastPositioned": "2022-11-08T20:09:08.093Z",
+        "batteryPercentage": 90,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "color": "#2CACBC",
+        "labels": [
+            {
+                "text": "28757537",
+                "color": "#FF0000"
+            }
+        ],
+        "positioningProfileId": null,
+        "updatedAt": "2023-04-25T16:40:40.216Z",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9d6",
+        "id": "63433",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.808Z",
+        "lastBlinkIndex": 43,
+        "lastSeen": "2023-03-19T07:45:59.685Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9d8",
+        "id": "63687",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.408Z",
+        "lastBlinkIndex": 109,
+        "lastSeen": "2023-03-19T07:45:59.874Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e6f545b800159a3f2dcd",
+        "id": "64",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.858Z",
+        "lastBlinkIndex": 25760024,
+        "lastSeen": "2023-08-09T04:38:44.275Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 85097,
+            "y": 19754,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.275Z",
+        "positioningProfileId": null,
+        "updatedAt": "2023-07-27T18:18:30.688Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "33815299",
+                "color": "#2CACBC"
+            }
+        ],
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "636ede037975a742e44349e2",
+        "id": "64297",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.700Z",
+        "lastBlinkIndex": 112,
+        "lastSeen": "2023-03-19T07:45:59.895Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63b454323ff9d6289028d9bc",
+        "id": "6455",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.865Z",
+        "lastBlinkIndex": 26,
+        "lastSeen": "2023-03-19T07:45:59.962Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e71345b800159a3f3d45",
+        "id": "65",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.867Z",
+        "lastBlinkIndex": 25626039,
+        "lastSeen": "2023-08-09T04:38:44.244Z",
+        "lastZones": [
+            {
+                "id": "649f034b7c71fe531345b538"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 814,
+            "y": 4308,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.244Z",
+        "positioningProfileId": null,
+        "updatedAt": "2023-08-07T14:04:57.439Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "33841547",
+                "color": "#FF0000"
+            },
+            {
+                "text": "qa pick",
+                "color": "#2FD64C"
+            },
+            {
+                "text": "Investigate",
+                "color": "#2FD64C"
+            }
+        ],
+        "color": "#EC008C",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c1e71345b800159a3f3d46",
+        "id": "66",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.162Z",
+        "lastBlinkIndex": 25674566,
+        "lastSeen": "2023-08-09T04:38:44.387Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 82124,
+            "y": -20736,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.387Z",
+        "positioningProfileId": null,
+        "updatedAt": "2023-05-17T16:15:21.463Z",
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32294406",
+                "color": "#2CACBC"
+            }
+        ],
+        "color": "#FCFF00",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d167",
+        "id": "67",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.172Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32294406",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 22832783,
+        "lastCoordinates": {
+            "x": 81598,
+            "y": -19211,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.673Z",
+        "lastSeen": "2023-08-09T04:38:43.673Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:17:32.595Z",
+        "moving": true,
+        "positioningProfileId": null,
+        "color": "#FCFF00"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d168",
+        "id": "68",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.194Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "31056533",
+                "color": "#EC008C"
+            }
+        ],
+        "lastBlinkIndex": 23005028,
+        "lastCoordinates": {
+            "x": 7893,
+            "y": 22263,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.570Z",
+        "lastSeen": "2023-08-09T04:38:43.570Z",
+        "lastZones": [
+            {
+                "id": "61af9685db502cfac18598aa"
+            }
+        ],
+        "updatedAt": "2023-03-15T16:01:50.089Z",
+        "color": "#32B6C4",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d169",
+        "id": "69",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.290Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 23002732,
+        "lastCoordinates": {
+            "x": 85581,
+            "y": -33989,
+            "z": 1000
+        },
+        "lastPositioned": "2023-08-09T04:38:44.132Z",
+        "lastSeen": "2023-08-09T04:38:44.132Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "33815298",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-05-31T22:09:16.538Z",
+        "color": "#FCFF00",
+        "moving": true,
+        "positioningProfileId": "df4"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bb0445b800159a43e6ee",
+        "id": "6962",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 100,
+        "firstSeen": "2021-11-16T14:07:00.964Z",
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastBlinkIndex": 79131,
+        "lastCoordinates": {
+            "x": 25215,
+            "y": -40846,
+            "z": 0
+        },
+        "lastPositioned": "2021-12-29T00:24:32.928Z",
+        "lastSeen": "2021-12-29T00:25:59.019Z",
+        "lastZones": [],
+        "labels": [
+            {
+                "text": "VISITOR",
+                "color": "#EC008C"
+            }
+        ],
+        "updatedAt": "2022-07-25T16:01:55.786Z",
+        "color": "#EC008C",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61aa2b3845b800159a90bd4a",
+        "id": "6965",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:22:44.975Z",
+        "lastBlinkIndex": 1094675,
+        "lastSeen": "2023-03-18T18:44:31.340Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 40736,
+            "y": -49770,
+            "z": 0
+        },
+        "lastPositioned": "2023-03-18T18:43:25.767Z",
+        "batteryPercentage": 100,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "color": "#7E00FF",
+        "labels": [
+            {
+                "text": "VISITOR",
+                "color": "#7E00FF"
+            }
+        ],
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61aa2b1545b800159a90aebd",
+        "id": "6978",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-12-03T14:35:01.073Z",
+        "lastBlinkIndex": 739640,
+        "lastSeen": "2021-12-22T19:32:57.794Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 12005,
+            "y": -50760,
+            "z": 0
+        },
+        "lastPositioned": "2021-12-22T19:32:15.834Z",
+        "batteryPercentage": 100,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": [
+            {
+                "text": "VISITOR",
+                "color": "#7E00FF"
+            }
+        ],
+        "updatedAt": "2021-12-07T18:14:58.514Z",
+        "color": "#7E00FF",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6273f0fa3796392df4afdba1",
+        "id": "6986",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 100,
+        "firstSeen": "2022-05-05T15:44:58.900Z",
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastBlinkIndex": 989840,
+        "lastCoordinates": {
+            "x": 6786,
+            "y": -51020,
+            "z": 0
+        },
+        "lastPositioned": "2022-04-13T19:51:02.851Z",
+        "lastSeen": "2022-04-13T19:51:19.992Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61af608d45b800159a69bef9",
+        "id": "7",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.203Z",
+        "lastBlinkIndex": 26348092,
+        "lastSeen": "2023-08-09T04:38:43.166Z",
+        "lastZones": [],
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastCoordinates": {
+            "x": 79568,
+            "y": -19818,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:39.133Z",
+        "labels": [
+            {
+                "text": "32333645",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2022-11-23T17:00:25.293Z",
+        "batteryPercentage": 85,
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d16a",
+        "id": "70",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.318Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32292889",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 22899323,
+        "lastCoordinates": {
+            "x": 63486,
+            "y": 15350,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.840Z",
+        "lastSeen": "2023-08-09T04:38:42.840Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "updatedAt": "2023-07-13T18:03:59.674Z",
+        "color": "#FCFF00",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "640de2287975a742e45a771d",
+        "id": "701",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T23:15:26.016Z",
+        "lastBlinkIndex": 35652831,
+        "lastCoordinates": {
+            "x": 66798,
+            "y": -12081,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:05:28.081Z",
+        "lastSeen": "2023-06-14T02:05:28.081Z",
+        "lastZones": [],
+        "moving": true,
+        "positioningProfileId": null,
+        "updatedAt": "2023-03-12T14:31:43.674Z",
+        "batteryPercentage": 100,
+        "fwVersion": "22",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "640de55d7975a742e45da0a0",
+        "id": "7011",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.856Z",
+        "lastBlinkIndex": 12701800,
+        "lastCoordinates": {
+            "x": 51389,
+            "y": -1927,
+            "z": 750
+        },
+        "lastPositioned": "2023-03-19T08:00:50.649Z",
+        "lastSeen": "2023-03-19T08:00:50.649Z",
+        "lastZones": [
+            {
+                "id": "61b764fcbf8983b322c5f66a"
+            }
+        ],
+        "moving": true,
+        "positioningProfileId": null,
+        "updatedAt": "2023-03-12T16:30:51.536Z",
+        "batteryPercentage": 45,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": [
+            {
+                "text": "watch",
+                "color": "#FF0000"
+            }
+        ]
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fa72cc7975a742e48c6acb",
+        "id": "702",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T18:29:18.680Z",
+        "lastBlinkIndex": 64518053,
+        "lastCoordinates": {
+            "x": 50276,
+            "y": -7488,
+            "z": 0
+        },
+        "lastPositioned": "2023-03-18T18:54:55.494Z",
+        "lastSeen": "2023-03-18T18:54:55.494Z",
+        "lastZones": [],
+        "moving": true,
+        "positioningProfileId": null,
+        "updatedAt": "2023-02-25T21:06:14.335Z",
+        "batteryPercentage": 100,
+        "fwVersion": "22",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63cc0d427975a742e4985494",
+        "id": "703",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:44.402Z",
+        "lastBlinkIndex": 245045465,
+        "lastSeen": "2023-06-14T02:25:40.657Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 67180,
+            "y": -9944,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:25:40.657Z",
+        "moving": true,
+        "batteryPercentage": 95,
+        "fwVersion": "22",
+        "hwVersion": "4",
+        "positioningProfileId": null,
+        "updatedAt": "2023-03-12T14:29:40.537Z",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63cc0d247975a742e4983735",
+        "id": "704",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:19:59.584Z",
+        "lastBlinkIndex": 284803195,
+        "lastSeen": "2023-06-14T02:25:37.123Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 66830,
+            "y": -9858,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:25:37.123Z",
+        "moving": true,
+        "positioningProfileId": "794",
+        "updatedAt": "2023-04-02T22:31:27.661Z",
+        "batteryPercentage": 90,
+        "fwVersion": "22",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63cc0e6e7975a742e4998e27",
+        "id": "705",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:19:59.585Z",
+        "lastBlinkIndex": 282219268,
+        "lastSeen": "2023-06-14T02:25:33.423Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 66864,
+            "y": -9797,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:25:33.423Z",
+        "moving": true,
+        "batteryPercentage": 95,
+        "fwVersion": "22",
+        "hwVersion": "4",
+        "positioningProfileId": "794",
+        "updatedAt": "2023-04-02T22:31:34.904Z",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63cc159e7975a742e4a14119",
+        "id": "706",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-19T20:57:45.633Z",
+        "lastBlinkIndex": 115924250,
+        "lastCoordinates": {
+            "x": 40488,
+            "y": -1802,
+            "z": 750
+        },
+        "lastPositioned": "2023-03-26T15:54:53.276Z",
+        "lastSeen": "2023-03-26T15:54:53.276Z",
+        "lastZones": [],
+        "moving": true,
+        "batteryPercentage": 65,
+        "fwVersion": "24",
+        "hwVersion": "4",
+        "positioningProfileId": "794",
+        "updatedAt": "2023-02-25T21:06:35.287Z",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61577cc445b800159a73f06e",
+        "id": "7063",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-10-01T21:25:24.621Z",
+        "lastBlinkIndex": 46426839,
+        "lastSeen": "2021-12-15T14:37:09.419Z",
+        "lastZones": [],
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastCoordinates": {
+            "x": 19870,
+            "y": -50530,
+            "z": 0
+        },
+        "lastPositioned": "2021-12-15T14:12:02.394Z",
+        "batteryPercentage": 100,
+        "positioningProfileId": null,
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63fa72cc7975a742e48c6acd",
+        "id": "707",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T23:51:14.511Z",
+        "lastBlinkIndex": 78577973,
+        "lastCoordinates": {
+            "x": 52512,
+            "y": -2362,
+            "z": 0
+        },
+        "lastPositioned": "2023-03-18T23:51:20.799Z",
+        "lastSeen": "2023-03-18T23:51:20.799Z",
+        "lastZones": [
+            {
+                "id": "61b764fcbf8983b322c5f66a"
+            }
+        ],
+        "moving": true,
+        "batteryPercentage": 100,
+        "fwVersion": "22",
+        "hwVersion": "4",
+        "positioningProfileId": null,
+        "updatedAt": "2023-02-25T21:06:54.338Z",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "640de20a7975a742e45a5c30",
+        "id": "709",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T23:15:23.014Z",
+        "lastBlinkIndex": 94094314,
+        "lastCoordinates": {
+            "x": 66953,
+            "y": -10847,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:05:15.408Z",
+        "lastSeen": "2023-06-14T02:05:15.408Z",
+        "lastZones": [],
+        "moving": true,
+        "positioningProfileId": "794",
+        "updatedAt": "2023-04-02T22:33:41.062Z",
+        "batteryPercentage": 30,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d16b",
+        "id": "71",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.208Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "33815274",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 23072120,
+        "lastCoordinates": {
+            "x": 85133,
+            "y": -34432,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.089Z",
+        "lastSeen": "2023-08-09T04:38:44.089Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "updatedAt": "2023-08-03T18:02:21.093Z",
+        "color": "#FCFF00",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "640de2287975a742e45a7721",
+        "id": "710",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T23:15:23.012Z",
+        "lastBlinkIndex": 23096229,
+        "lastCoordinates": {
+            "x": 67359,
+            "y": -11417,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:05:19.472Z",
+        "lastSeen": "2023-06-14T02:05:19.472Z",
+        "lastZones": [],
+        "moving": true,
+        "positioningProfileId": "794",
+        "updatedAt": "2023-04-02T22:33:54.992Z",
+        "batteryPercentage": 70,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "640de2087975a742e45a58a2",
+        "id": "711",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T23:15:26.085Z",
+        "lastBlinkIndex": 54655489,
+        "lastCoordinates": {
+            "x": 67553,
+            "y": -10889,
+            "z": 750
+        },
+        "lastPositioned": "2023-06-14T02:05:23.868Z",
+        "lastSeen": "2023-06-14T02:05:23.868Z",
+        "lastZones": [],
+        "moving": true,
+        "positioningProfileId": "794",
+        "updatedAt": "2023-04-02T22:33:01.575Z",
+        "batteryPercentage": 90,
+        "fwVersion": "24",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d16c",
+        "id": "72",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.131Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [],
+        "lastBlinkIndex": 23057877,
+        "lastCoordinates": {
+            "x": 82976,
+            "y": -49608,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.137Z",
+        "lastSeen": "2023-08-09T04:38:44.137Z",
+        "lastZones": [
+            {
+                "id": "639e70aac5e1667f7acfba9e"
+            }
+        ],
+        "updatedAt": "2023-07-27T18:16:55.891Z",
+        "color": "#32B6C4",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d16d",
+        "id": "73",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.220Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32302519",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 22991628,
+        "lastCoordinates": {
+            "x": 77631,
+            "y": 20869,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.486Z",
+        "lastSeen": "2023-08-09T04:38:44.486Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "updatedAt": "2023-04-11T18:01:34.212Z",
+        "color": "#FCFF00",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61c3561145b800159a03d3ed",
+        "id": "7346",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2021-12-22T16:45:05.923Z",
+        "lastBlinkIndex": 192693,
+        "lastSeen": "2021-12-22T19:52:58.198Z",
+        "lastZones": [],
+        "batteryPercentage": 100,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "lastCoordinates": {
+            "x": 15497,
+            "y": -51206,
+            "z": 0
+        },
+        "lastPositioned": "2021-12-22T19:51:02.209Z",
+        "color": "#7E00FF",
+        "labels": [
+            {
+                "color": "red",
+                "text": "DJ 10.26.2022 dj parameter"
+            },
+            {
+                "color": "red",
+                "text": "Part 6"
+            },
+            {
+                "color": "red",
+                "text": "Expedite"
+            }
+        ],
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d16e",
+        "id": "74",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:45.884Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [],
+        "lastBlinkIndex": 22930552,
+        "lastCoordinates": {
+            "x": 9171,
+            "y": 22227,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.736Z",
+        "lastSeen": "2023-08-09T04:38:43.736Z",
+        "lastZones": [
+            {
+                "id": "61af9685db502cfac18598aa"
+            }
+        ],
+        "updatedAt": "2022-06-28T19:11:29.441Z",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d16f",
+        "id": "75",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.176Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32359760",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 22899020,
+        "lastCoordinates": {
+            "x": 77672,
+            "y": 20731,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.857Z",
+        "lastSeen": "2023-08-09T04:38:42.857Z",
+        "lastZones": [
+            {
+                "id": "61b760ce47fb8380a068cca9"
+            }
+        ],
+        "updatedAt": "2023-07-12T18:52:31.244Z",
+        "moving": true,
+        "positioningProfileId": null,
+        "color": "#FCFF00"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d170",
+        "id": "76",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 5,
+        "firstSeen": "2023-03-18T07:19:59.583Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "SN 19267",
+                "color": "#000000"
+            }
+        ],
+        "lastBlinkIndex": 101385395,
+        "lastCoordinates": {
+            "x": 89649,
+            "y": 26934,
+            "z": 0
+        },
+        "lastPositioned": "2023-05-12T01:27:55.570Z",
+        "lastSeen": "2023-05-12T01:27:55.570Z",
+        "lastZones": [
+            {
+                "id": "61afae164927c671bd9eb3fa"
+            }
+        ],
+        "updatedAt": "2022-09-16T17:17:31.140Z",
+        "color": "#000000",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d171",
+        "id": "77",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 90,
+        "firstSeen": "2023-03-18T07:20:45.857Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "SN 44431",
+                "color": "#000000"
+            }
+        ],
+        "lastBlinkIndex": 119365741,
+        "lastCoordinates": {
+            "x": 87880,
+            "y": -49571,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.731Z",
+        "lastSeen": "2023-08-09T04:38:44.731Z",
+        "lastZones": [
+            {
+                "id": "639e70aac5e1667f7acfba9e"
+            }
+        ],
+        "updatedAt": "2023-01-21T18:36:28.796Z",
+        "color": "#000000",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "64b9464cfef3bd37f3667633",
+        "id": "777094",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-07-20T14:35:31.978Z",
+        "lastBlinkIndex": 11911343,
+        "lastSeen": "2023-07-20T15:53:12.039Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 6565,
+            "y": -51777,
+            "z": 0
+        },
+        "lastPositioned": "2023-07-20T15:52:33.356Z",
+        "moving": true,
+        "batteryPercentage": 85,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "628634b0757a8a38f4a8ec2c",
+        "id": "777096",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-02-19T20:57:45.651Z",
+        "lastBlinkIndex": 134405592,
+        "lastCoordinates": {
+            "x": 6848,
+            "y": -50608,
+            "z": 0
+        },
+        "lastPositioned": "2023-02-25T00:20:51.176Z",
+        "lastSeen": "2023-02-26T01:00:53.083Z",
+        "lastZones": [],
+        "batteryPercentage": 5,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": [],
+        "updatedAt": "2023-01-25T13:54:04.240Z",
+        "color": "#32B6C4",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "628634c6757a8a38f4a9044a",
+        "id": "777099",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2022-05-19T12:15:02.543Z",
+        "lastBlinkIndex": 12136548,
+        "lastSeen": "2022-05-19T14:32:51.022Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 11213,
+            "y": -49863,
+            "z": 0
+        },
+        "lastPositioned": "2022-05-19T14:32:51.022Z",
+        "batteryPercentage": 85,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "labels": [
+            {
+                "color": "red",
+                "text": "DJ 10.26.2022 dj parameter"
+            },
+            {
+                "color": "red",
+                "text": "Part 2"
+            },
+            {
+                "color": "red",
+                "text": "Expedite"
+            }
+        ],
+        "updatedAt": "2022-05-19T12:31:45.612Z",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d173",
+        "id": "78",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 5,
+        "firstSeen": "2023-03-18T07:20:45.857Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "SN 15621",
+                "color": "#000000"
+            }
+        ],
+        "lastBlinkIndex": 103014837,
+        "lastCoordinates": {
+            "x": 100496,
+            "y": -10544,
+            "z": 0
+        },
+        "lastPositioned": "2023-05-13T04:27:40.915Z",
+        "lastSeen": "2023-05-13T04:27:40.915Z",
+        "lastZones": [],
+        "updatedAt": "2023-01-05T20:05:48.211Z",
+        "color": "#000000",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d175",
+        "id": "79",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 5,
+        "firstSeen": "2023-03-18T07:20:45.749Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 100153840,
+        "lastCoordinates": {
+            "x": -2887,
+            "y": -43256,
+            "z": 0
+        },
+        "lastPositioned": "2023-05-09T08:04:38.984Z",
+        "lastSeen": "2023-05-09T08:04:38.984Z",
+        "lastZones": [],
+        "labels": [
+            {
+                "text": "SN 11786",
+                "color": "#000000"
+            }
+        ],
+        "updatedAt": "2023-01-18T19:49:49.812Z",
+        "color": "#000000",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "615e093245b800159a999481",
+        "id": "8",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.202Z",
+        "lastBlinkIndex": 26256311,
+        "lastCoordinates": {
+            "x": 8249,
+            "y": 24110,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.683Z",
+        "lastSeen": "2023-08-09T04:38:43.683Z",
+        "lastZones": [
+            {
+                "id": "61af96d2a6b19116f287753a"
+            }
+        ],
+        "batteryPercentage": 85,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "32359781",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-07-13T18:14:39.053Z",
+        "color": "#2FD64C",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d176",
+        "id": "80",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 5,
+        "firstSeen": "2023-03-18T07:20:45.870Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 101063296,
+        "lastCoordinates": {
+            "x": 17849,
+            "y": -20964,
+            "z": 0
+        },
+        "lastPositioned": "2023-05-10T12:35:18.794Z",
+        "lastSeen": "2023-05-10T12:35:18.794Z",
+        "lastZones": [
+            {
+                "id": "61ae63e2e01fa0f4ff697bd5"
+            }
+        ],
+        "labels": [
+            {
+                "text": "SN 23430",
+                "color": "#000000"
+            }
+        ],
+        "updatedAt": "2022-03-21T12:13:25.137Z",
+        "color": "#000000",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d177",
+        "id": "81",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 5,
+        "firstSeen": "2023-03-18T07:20:45.749Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "SN 60236",
+                "color": "#000000"
+            }
+        ],
+        "lastBlinkIndex": 103962187,
+        "lastCoordinates": {
+            "x": -4987,
+            "y": -32761,
+            "z": 0
+        },
+        "lastPositioned": "2023-05-14T18:23:54.744Z",
+        "lastSeen": "2023-05-14T18:23:54.744Z",
+        "lastZones": [],
+        "updatedAt": "2022-08-12T18:14:56.665Z",
+        "color": "#000000",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d178",
+        "id": "82",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 5,
+        "firstSeen": "2023-03-18T07:20:44.395Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "SN 19275",
+                "color": "#000000"
+            }
+        ],
+        "lastBlinkIndex": 101915911,
+        "lastCoordinates": {
+            "x": 26687,
+            "y": -142,
+            "z": 0
+        },
+        "lastPositioned": "2023-05-12T06:27:01.063Z",
+        "lastSeen": "2023-05-12T06:27:01.063Z",
+        "lastZones": [
+            {
+                "id": "61af9752166c20f95b4e86b9"
+            }
+        ],
+        "updatedAt": "2022-03-21T12:26:43.486Z",
+        "moving": true,
+        "positioningProfileId": null,
+        "color": "#000000"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d179",
+        "id": "83",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.350Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 22898746,
+        "lastCoordinates": {
+            "x": 13577,
+            "y": 3495,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.779Z",
+        "lastSeen": "2023-08-09T04:38:43.779Z",
+        "lastZones": [
+            {
+                "id": "61af72fc979491217cb222c9"
+            }
+        ],
+        "labels": [
+            {
+                "text": "36618386",
+                "color": "#FF0000"
+            },
+            {
+                "text": "Storm ",
+                "color": "#FF0000"
+            }
+        ],
+        "updatedAt": "2023-08-01T17:14:44.448Z",
+        "color": "#32B6C4",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6220f9f345b800159a74c001",
+        "id": "8324",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2022-03-03T17:25:07.002Z",
+        "lastBlinkIndex": 1838871,
+        "lastSeen": "2022-04-06T20:43:35.959Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 4754,
+            "y": -52177,
+            "z": 0
+        },
+        "lastPositioned": "2022-04-06T20:42:19.762Z",
+        "color": "#7E00FF",
+        "updatedAt": "2022-03-21T21:29:47.316Z",
+        "labels": [
+            {
+                "text": "ANKIT",
+                "color": "#7E00FF"
+            }
+        ],
+        "batteryPercentage": 75,
+        "fwVersion": "23",
+        "hwVersion": "4",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6238b2a145b800159a0930b3",
+        "id": "832400",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2022-03-21T17:15:13.310Z",
+        "lastBlinkIndex": 72416282,
+        "lastCoordinates": {
+            "x": 4322,
+            "y": -51024,
+            "z": 0
+        },
+        "lastPositioned": "2022-05-19T15:02:42.151Z",
+        "lastSeen": "2022-05-19T15:02:47.425Z",
+        "lastZones": [],
+        "batteryPercentage": 45,
+        "fwVersion": "24",
+        "hwVersion": "4",
+        "labels": [
+            {
+                "color": "red",
+                "text": "DJ 10.26.2022 dj parameter"
+            },
+            {
+                "color": "red",
+                "text": "Part 3"
+            },
+            {
+                "color": "red",
+                "text": "Expedite"
+            }
+        ],
+        "updatedAt": "2022-07-25T16:01:41.849Z",
+        "color": "#EC008C",
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d17a",
+        "id": "84",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 5,
+        "firstSeen": "2023-03-18T07:20:45.747Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 103128519,
+        "lastCoordinates": {
+            "x": 50351,
+            "y": -1082,
+            "z": 0
+        },
+        "lastPositioned": "2023-05-13T04:57:34.760Z",
+        "lastSeen": "2023-05-13T04:57:34.760Z",
+        "lastZones": [
+            {
+                "id": "61b764fcbf8983b322c5f66a"
+            }
+        ],
+        "labels": [
+            {
+                "text": "SN 20580",
+                "color": "#000000"
+            }
+        ],
+        "updatedAt": "2023-01-04T12:49:20.066Z",
+        "color": "#000000",
+        "moving": true,
+        "positioningProfileId": null
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63c17c373ff9d62890a02ada",
+        "id": "85",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:21:03.178Z",
+        "lastBlinkIndex": 19617420,
+        "lastSeen": "2023-08-09T04:38:44.698Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 38135,
+            "y": -4602,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.698Z",
+        "moving": true,
+        "batteryPercentage": 90,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#000000",
+        "updatedAt": "2023-01-26T20:30:54.155Z",
+        "labels": [
+            {
+                "text": "SN 19296",
+                "color": "#000000"
+            }
+        ]
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63c17ddb3ff9d62890a27022",
+        "id": "86",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:21:03.313Z",
+        "lastBlinkIndex": 23552071,
+        "lastSeen": "2023-08-09T04:38:39.668Z",
+        "lastZones": [
+            {
+                "id": "61ae63e2e01fa0f4ff697bd5"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 20712,
+            "y": -23179,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:39.668Z",
+        "moving": true,
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#000000",
+        "updatedAt": "2023-01-26T18:44:17.607Z",
+        "labels": [
+            {
+                "text": "SN 19301",
+                "color": "#000000"
+            }
+        ]
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63c17d813ff9d62890a1f21d",
+        "id": "87",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.196Z",
+        "lastBlinkIndex": 27555274,
+        "lastSeen": "2023-08-09T04:38:42.613Z",
+        "lastZones": [
+            {
+                "id": "61b764fcbf8983b322c5f66a"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 46450,
+            "y": -2559,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.613Z",
+        "moving": true,
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#000000",
+        "updatedAt": "2023-01-26T20:30:23.625Z",
+        "labels": [
+            {
+                "text": "SN 19287",
+                "color": "#000000"
+            }
+        ]
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63c17d633ff9d62890a1c9d4",
+        "id": "88",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.426Z",
+        "lastBlinkIndex": 3782795,
+        "lastSeen": "2023-08-09T04:38:42.474Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 78156,
+            "y": -50521,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-08T21:51:06.947Z",
+        "moving": true,
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#000000",
+        "updatedAt": "2023-01-26T18:00:00.043Z",
+        "labels": []
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63c17df93ff9d62890a29b77",
+        "id": "89",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:21:03.272Z",
+        "lastBlinkIndex": 19866917,
+        "lastSeen": "2023-08-09T04:38:40.353Z",
+        "lastZones": [
+            {
+                "id": "61afae164927c671bd9eb3fa"
+            }
+        ],
+        "lastCoordinates": {
+            "x": 90079,
+            "y": 27064,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:40.353Z",
+        "moving": true,
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "color": "#000000",
+        "updatedAt": "2023-01-26T19:30:10.089Z",
+        "labels": [
+            {
+                "text": "SN 19271",
+                "color": "#000000"
+            }
+        ]
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61af624f45b800159a6a68c6",
+        "id": "9",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:46.216Z",
+        "lastBlinkIndex": 26282013,
+        "lastSeen": "2023-08-09T04:38:43.199Z",
+        "lastZones": [
+            {
+                "id": "61b7604cc0aaf70d6f0ff54c"
+            }
+        ],
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastCoordinates": {
+            "x": 47022,
+            "y": 15828,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:43.199Z",
+        "labels": [
+            {
+                "text": "32119229",
+                "color": "#2CACBC"
+            }
+        ],
+        "updatedAt": "2023-06-22T13:35:24.690Z",
+        "batteryPercentage": 85,
+        "color": "#FCFF00",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "63c17dbd3ff9d62890a243f9",
+        "id": "90",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-18T07:20:45.849Z",
+        "lastBlinkIndex": 11485808,
+        "lastSeen": "2023-08-09T04:38:39.741Z",
+        "lastZones": [],
+        "lastCoordinates": {
+            "x": 67867,
+            "y": -31833,
+            "z": 1000
+        },
+        "lastPositioned": "2023-08-09T04:38:39.741Z",
+        "moving": true,
+        "color": "#000000",
+        "updatedAt": "2023-01-17T03:25:17.420Z",
+        "labels": [
+            {
+                "text": "SN 61638",
+                "color": "#000000"
+            }
+        ],
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": "5d7"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d17b",
+        "id": "91",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.349Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "31774179",
+                "color": "#2CACBC"
+            }
+        ],
+        "lastBlinkIndex": 22985151,
+        "lastCoordinates": {
+            "x": 43537,
+            "y": 32041,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:42.960Z",
+        "lastSeen": "2023-08-09T04:38:42.960Z",
+        "lastZones": [
+            {
+                "id": "61b75db59eb72fc1f5d330f4"
+            }
+        ],
+        "updatedAt": "2023-08-08T21:50:23.269Z",
+        "moving": true,
+        "positioningProfileId": null,
+        "color": "#FCFF00"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "6193bb0445b800159a43e6ef",
+        "id": "9113",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "firstSeen": "2023-03-19T04:46:33.377Z",
+        "lastBlinkIndex": 159,
+        "lastSeen": "2023-03-19T07:45:59.978Z",
+        "lastZones": [],
+        "labels": [],
+        "positioningProfileId": null,
+        "lastCoordinates": {
+            "x": 9517,
+            "y": -17429,
+            "z": 0
+        },
+        "lastPositioned": "2023-03-19T07:41:51.160Z",
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "621cdc7845b800159ad5d17c",
+        "id": "92",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 85,
+        "firstSeen": "2023-03-18T07:20:46.252Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "lastBlinkIndex": 22904668,
+        "lastCoordinates": {
+            "x": 81102,
+            "y": -35413,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-09T04:38:44.081Z",
+        "lastSeen": "2023-08-09T04:38:44.081Z",
+        "lastZones": [
+            {
+                "id": "64d2bd9071374d887289cabc"
+            }
+        ],
+        "labels": [
+            {
+                "text": "32404930",
+                "color": "#2CACBC"
+            }
+        ],
+        "color": "#FCFF00",
+        "moving": true,
+        "positioningProfileId": null,
+        "updatedAt": "2023-08-03T18:01:50.549Z"
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dca",
+        "id": "94",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 100,
+        "color": "#FF9738",
+        "firstSeen": "2023-02-21T18:04:57.600Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "ENGINEERING",
+                "color": "#FF9738"
+            }
+        ],
+        "lastBlinkIndex": 567507,
+        "lastCoordinates": {
+            "x": 27918,
+            "y": -44996,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-07T19:18:48.579Z",
+        "lastSeen": "2023-08-09T04:37:16.288Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dcb",
+        "id": "95",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 100,
+        "color": "#FF9738",
+        "firstSeen": "2023-02-21T18:04:57.283Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "ENGINEERING",
+                "color": "#FF9738"
+            }
+        ],
+        "lastBlinkIndex": 553047,
+        "lastCoordinates": {
+            "x": 1040,
+            "y": 1715,
+            "z": 0
+        },
+        "lastPositioned": "2023-07-24T13:27:33.089Z",
+        "lastSeen": "2023-08-09T04:37:35.778Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dcd",
+        "id": "96",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "batteryPercentage": 100,
+        "color": "#FF9738",
+        "firstSeen": "2023-02-21T18:04:58.251Z",
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "labels": [
+            {
+                "text": "ENGINEERING",
+                "color": "#FF9738"
+            }
+        ],
+        "lastBlinkIndex": 561303,
+        "lastCoordinates": {
+            "x": -3596,
+            "y": -1847,
+            "z": 0
+        },
+        "lastPositioned": "2023-07-17T05:22:15.422Z",
+        "lastSeen": "2023-08-09T04:37:21.100Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dcf",
+        "id": "97",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "color": "#FF9738",
+        "firstSeen": "2023-03-18T07:23:14.875Z",
+        "labels": [
+            {
+                "text": "ENGINEERING",
+                "color": "#FF9738"
+            },
+            {
+                "text": "WPC Sample Weld",
+                "color": "#FF9738"
+            }
+        ],
+        "lastBlinkIndex": 565972,
+        "lastCoordinates": {
+            "x": 43375,
+            "y": -51008,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-02T16:15:11.370Z",
+        "lastSeen": "2023-08-09T04:37:28.601Z",
+        "lastZones": [],
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "updatedAt": "2021-12-21T14:18:36.619Z",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dd1",
+        "id": "98",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "color": "#FF9738",
+        "firstSeen": "2023-03-18T07:21:50.708Z",
+        "labels": [
+            {
+                "text": "ENGINEERING",
+                "color": "#FF9738"
+            }
+        ],
+        "lastBlinkIndex": 568643,
+        "lastCoordinates": {
+            "x": 42206,
+            "y": -50972,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-08T20:55:57.408Z",
+        "lastSeen": "2023-08-09T04:37:29.118Z",
+        "lastZones": [],
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8",
+        "positioningProfileId": null,
+        "moving": true
+    },
+    {
+        "connected": false,
+        "inUse": true,
+        "deleted": false,
+        "_id": "61b9f6f345b800159a379dd2",
+        "id": "99",
+        "tenantId": "61577cbcb94bf591377a3c80",
+        "color": "#FF9738",
+        "firstSeen": "2023-03-18T07:21:49.149Z",
+        "labels": [
+            {
+                "text": "ENGINEERING",
+                "color": "#FF9738"
+            }
+        ],
+        "lastBlinkIndex": 567019,
+        "lastCoordinates": {
+            "x": 41261,
+            "y": -49249,
+            "z": 0
+        },
+        "lastPositioned": "2023-08-07T19:49:23.045Z",
+        "lastSeen": "2023-08-09T04:37:20.717Z",
+        "lastZones": [],
+        "positioningProfileId": null,
+        "moving": true,
+        "batteryPercentage": 100,
+        "fwVersion": "2",
+        "hwVersion": "8"
+    }
+]

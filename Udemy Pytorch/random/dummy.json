@@ -1,0 +1,62 @@
+{
+    "success": true,
+    "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiYWNjZXNzIiwidXNlcklkIjoiNjBiOTQzMDJiMzRlYTI0MzFhOGI0NjdmIiwidGVuYW50cyI6W3siaWQiOiI1ZjA3NjgwZTY2ZjIzYjZmZTY1ZGJhYzkiLCJyb2xlIjoiT1dORVIifSx7ImlkIjoiNjAzNTcwNmQ4ZGU0Mzk1NzkyNzI1NjdiIiwicm9sZSI6Ik9XTkVSIn0seyJpZCI6IjYwNTVmMWIxMjg3NzVjMmZmYzA1NmNmOCIsInJvbGUiOiJPV05FUiJ9LHsiaWQiOiI2MGI4ZTFkZGIzNGVhMjk3MGQ4YWI2MjEiLCJyb2xlIjoiT1dORVIifSx7ImlkIjoiNjBiOGU1N2NiMzRlYTIwZjE3OGFlMmJmIiwicm9sZSI6Ik1BTkFHRVIifSx7ImlkIjoiNjExZDJkMjQ2MDhiZGUwMmY3ZWIyOWI0Iiwicm9sZSI6Ik9XTkVSIn0seyJpZCI6IjYxNDlmYmEyNTA0NTAyNzQ5NjI2MjRlMyIsInJvbGUiOiJPV05FUiJ9LHsiaWQiOiI2MTU3N2NiY2I5NGJmNTkxMzc3YTNjODAiLCJyb2xlIjoiTUFOQUdFUiJ9LHsiaWQiOiI2MTVmNjdkYzk3YzY3NzlkMzU3MmU1MTciLCJyb2xlIjoiT1dORVIifV0sImlhdCI6MTY5MTU1NTQ0NCwiZXhwIjoxNjkxNTU1NzQ0fQ.hk0jsAJeFpDFuO5kpqPP64wJaJd7dY3-dDt9vQI_3GO_5T50snOfekZJck_4pJNOLkkSwzdnZIlOssMGBEIwJZhQC4CGSetzfoos1wppd-JBlMw0VZKjfXNdeU4bKPloA8N0J_RE2pZymS6oPbIFBZgFqXzi2P9HG0cNGfVqxDuKgxP6XxrUk_lpibGAX83W4yZdiRRoFJ4cJa4FFAn1r79ybtA_jHYjm74tOVevlGsYKz0e-f-Y53-kHS6YtNDoeCo0_qq_YiabXoKjq-h1Xt9cdjk1obC0YcdQncXYpYwld9kQ5wZb06zD0Jd7IWlRYRqaH7XPaXKa37xiFVftKGO71Zh5VmyYJOQIDix77i2q93S-_Uof_bUST6csxZ7OVgc1XcECh5wFyOw5L-luuaLP4Hl0RvrXX2wGLVFo7FYtxqZZ9YwoXpRkjQowBQP-EgGiaepWWOSa3g7mL9R8XAsjHK0eVnHKYEiTEpkshkrHOuiro-Gauju_jsw4JzoCX6ptq52U-1V5eiim9t7nHU1sC5jZa54pKr8H5P7wS7oDc4BP1TquXoEnBAju6IoSLhn48cQSCKH7BNpnH9SX2UwsDnUFtO-G2CD8imK8oLK75uGs4ogxJJTx2IOXihS5sdSUGSb8LHL7Ic1EbpVK1yg57j-H_f625EhfYg8IHZc",
+    "refreshToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoicmVmcmVzaCIsInVzZXJJZCI6IjYwYjk0MzAyYjM0ZWEyNDMxYThiNDY3ZiIsInRlbmFudHMiOlt7ImlkIjoiNWYwNzY4MGU2NmYyM2I2ZmU2NWRiYWM5Iiwicm9sZSI6Ik9XTkVSIn0seyJpZCI6IjYwMzU3MDZkOGRlNDM5NTc5MjcyNTY3YiIsInJvbGUiOiJPV05FUiJ9LHsiaWQiOiI2MDU1ZjFiMTI4Nzc1YzJmZmMwNTZjZjgiLCJyb2xlIjoiT1dORVIifSx7ImlkIjoiNjBiOGUxZGRiMzRlYTI5NzBkOGFiNjIxIiwicm9sZSI6Ik9XTkVSIn0seyJpZCI6IjYwYjhlNTdjYjM0ZWEyMGYxNzhhZTJiZiIsInJvbGUiOiJNQU5BR0VSIn0seyJpZCI6IjYxMWQyZDI0NjA4YmRlMDJmN2ViMjliNCIsInJvbGUiOiJPV05FUiJ9LHsiaWQiOiI2MTQ5ZmJhMjUwNDUwMjc0OTYyNjI0ZTMiLCJyb2xlIjoiT1dORVIifSx7ImlkIjoiNjE1NzdjYmNiOTRiZjU5MTM3N2EzYzgwIiwicm9sZSI6Ik1BTkFHRVIifSx7ImlkIjoiNjE1ZjY3ZGM5N2M2Nzc5ZDM1NzJlNTE3Iiwicm9sZSI6Ik9XTkVSIn1dLCJpYXQiOjE2OTE1NTU0NDQsImV4cCI6MTY5Mjc2NTA0NH0.rgDSzt2L09z7KD1Y2E5V9AN57l9WQQhfowpL1-yQm29M-VGqgG9VbwlKzharTxdajdlysQ21gGn7kow5Py2H-fnORfNMCIxSDWqMeupCZOTx4eJ4OAjwhCdyglfmvpbi70GIBBAmItY90iVrrqle61OUBWCS4KH8sSXffSCN0cNszO4eq02Xpk0g1BLWniMyEcgobubLDabwRTVx06F-X2hUp9csg2avnlonoOYufI95g9-8J7wy0s9uSvmsKffE8llZqRkgwR6QeN2ksewcerPI1k5jx0Qfzg5C0VdtRTklI-nAVhFjzt0gX-qcTxvi8ocbYXoRTiAmgIcPMaSDNk9puZ5iUoOBR101OzMMDRi5GXnyplnPvKBO0OL7C3pORtxo582gLwRNK1WJ_1x3ba1K6VfVcrUCY-QRKYS-XP0-3-JOTmcRXiVrGBT9QgnI53BLo5joY5Dm41lCqDCOYhPH76Sfha7BxkZ5OLhvLEyO5l2SmNKMnko7U6oz01QnusgoCj6LVkJFx2ZJBN8Yzs9-3se7w2t_KXfivVY8zj4RviDt0z3tl-TReCDDnxicbLCE5vJS0DaLsYi11fgR24ByREoQyqeU8qOVGD1Tmr98X6tasVRz4oLXKPiKrtCkupilY4A1Eo_EUtcYQ4AZhhPk43W_fc0vzAloihjrDgA",
+    "tenants": [
+        {
+            "id": "5f07680e66f23b6fe65dbac9",
+            "name": "Gemba Systems - Office",
+            "type": "ENTERPRISE",
+            "role": "OWNER"
+        },
+        {
+            "id": "6035706d8de439579272567b",
+            "name": "GS Demo Kit 1",
+            "type": "ENTERPRISE",
+            "role": "OWNER"
+        },
+        {
+            "id": "6055f1b128775c2ffc056cf8",
+            "name": "BHU 1",
+            "type": "ENTERPRISE",
+            "role": "OWNER"
+        },
+        {
+            "id": "60b8e1ddb34ea2970d8ab621",
+            "name": "GS Demo Kit 3",
+            "type": "ENTERPRISE",
+            "role": "OWNER"
+        },
+        {
+            "id": "60b8e57cb34ea20f178ae2bf",
+            "name": "GS Demo Kit Mini 1",
+            "type": "ENTERPRISE",
+            "role": "MANAGER"
+        },
+        {
+            "id": "611d2d24608bde02f7eb29b4",
+            "name": "Drobot 1",
+            "type": "ENTERPRISE",
+            "role": "OWNER"
+        },
+        {
+            "id": "6149fba250450274962624e3",
+            "name": "GS Demo Kit 4",
+            "type": "ENTERPRISE",
+            "role": "OWNER"
+        },
+        {
+            "id": "61577cbcb94bf591377a3c80",
+            "name": "AFL Accessories",
+            "type": "ENTERPRISE",
+            "role": "MANAGER"
+        },
+        {
+            "id": "615f67dc97c6779d3572e517",
+            "name": "GS Demo Kit 2",
+            "type": "ENTERPRISE",
+            "role": "OWNER"
+        }
+    ],
+    "serverTime": "2023-08-09T04:30:44.477Z"
+}
